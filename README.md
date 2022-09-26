@@ -11,7 +11,9 @@ O Projeto tem como objetivo, realizar um Crud.
 GK1 GK2 GK2
 
 Ambiente de desenvolvimento
-Visual Studio
+-Visual Studio
+
+
 💪 Como contribuir para o projeto
 Faça um fork do projeto.
 Crie uma nova branch com as suas alterações: git checkout -b my-feature
@@ -21,14 +23,14 @@ Caso tenha alguma dúvida confira este guia de como contribuir no GitHub
 
 🕸 Organização do Projeto
 Trello
-
 Utilizamos para separarmos as tarefas de forma simples, clara e objetiva.
+
 Figma
-
 Utilizamos para o desenvolvimento da prototipação.
-GitHub
 
+GitHub
 Utilizamos para hospedarmos o código do projeto.
+
 Squad InfoDevs
 👨‍💻: - Matheus Alvarez
 
